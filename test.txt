@@ -1,4 +1,4 @@
 assasrwrdasdsfdfsd
 bin bin\
 n
-bin dep 
+bin dep trai lai cho
