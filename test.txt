@@ -1,4 +1,4 @@
 assasrwrdasdsfdfsd
 bin bin\
 n
-bin dep trai
+bin 
